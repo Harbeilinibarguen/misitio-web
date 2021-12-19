@@ -1,1 +1,2 @@
 esta  es mi primer repicitorio de git 
+este archivo es  modificado con el fin de prueba con git 
