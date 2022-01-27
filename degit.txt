@@ -1,4 +1,0 @@
-esta  de git 
-este archivo es  modificado con el fin de prueba con git 
-esto es una prueba mas para ver cuanto a prendi en este curso 
-esto es una prueba mas para ver cuanto esta aprendiendao real menta en git  
