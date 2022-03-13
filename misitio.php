@@ -1,3 +1,5 @@
+Esto es un repicitorio de pruebas 
+
 <?php
 
 $thegem_use_new_theme_options = true;
